@@ -1,7 +1,7 @@
  My certificates for taking the course:
 <li> 
-  <a href="https://drive.google.com/drive/folders/1CvBZE2C7r3T1V99ZFX92AeNW1z9k8EHd?hl=ru">Software Functional Testing  </a>
+  <a href="https://drive.google.com/file/d/17w5JXXvp3ptGtr3Ci6tAnl3pwfDXVhsK/view?usp=sharing">Software Functional Testing  </a>
 </li>
 <li> 
-  <a href="https://drive.google.com/drive/folders/1CvBZE2C7r3T1V99ZFX92AeNW1z9k8EHd?hl=ru"> Software Testing: Postman for API Testing </a>
+  <a href="https://drive.google.com/file/d/19BJRCwBy0k35hG0Egro07_5v0J_BgoK3/view?usp=sharing"> Software Testing: Postman for API Testing </a>
 </li>
